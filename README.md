@@ -18,13 +18,13 @@ El script ofrece un menú interactivo con varias opciones que permiten al usuari
 Para ejecutar el script, primero asegúrate de darle permisos de ejecución:
 
 ```bash
-chmod +x script.sh
+chmod +x performance.sh
 ```
 
 Luego, ejecútalo con:
 
 ```bash
-./script.sh
+./performance.sh
 ```
 
 Al ejecutar el script, se mostrará un menú principal con las opciones disponibles. Selecciona una opción para ver la información deseada. Después de elegir una opción, tendrás subopciones que te permiten:
